@@ -1,1 +1,1 @@
-Solutions to Loops, conditions and parsing
+Solutions to Loops, conditions and parsing.
